@@ -1,0 +1,12 @@
+{
+  "id": "mig_cn0obo94p31jf4mt8s7g",
+  "parentID": "mig_cn0o9494p31jf4mt8s60",
+  "checksum": "1:eed287c4d133ab5fc09ada30bbfd268e68bfc91654f21925cab623a00dd7986b",
+  "operations": [
+    {
+      "addTable": {
+        "table": "recc_items"
+      }
+    }
+  ]
+}

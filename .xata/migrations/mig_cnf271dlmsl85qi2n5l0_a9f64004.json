@@ -1,0 +1,14 @@
+{
+  "id": "mig_cnf271dlmsl85qi2n5l0",
+  "parentID": "mig_cnenqvsp5g7hi2v1ujhg",
+  "checksum": "1:a9f6400480689ba392bed5142b8bba50908b29e38b8bb3e084e8680ca7af1410",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "image_url",
+        "oldName": "imageUrl",
+        "table": "users"
+      }
+    }
+  ]
+}

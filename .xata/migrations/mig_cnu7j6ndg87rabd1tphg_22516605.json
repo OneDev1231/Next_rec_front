@@ -1,0 +1,17 @@
+{
+  "id": "mig_cnu7j6ndg87rabd1tphg",
+  "parentID": "mig_cntqhjrij48b5dd5k3h0",
+  "checksum": "1:22516605f095419e59c1136e24e3c057f275c82e97d0990b0d57dfc57ba915d7",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "status",
+          "type": "string",
+          "defaultValue": "active"
+        },
+        "table": "requests"
+      }
+    }
+  ]
+}

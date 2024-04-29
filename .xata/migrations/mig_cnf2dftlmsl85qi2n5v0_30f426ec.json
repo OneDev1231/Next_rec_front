@@ -1,0 +1,14 @@
+{
+  "id": "mig_cnf2dftlmsl85qi2n5v0",
+  "parentID": "mig_cnf2ceddo47p3g5cduug",
+  "checksum": "1:30f426ec828dadb5cdb1b449eb224af32d93d9d26c0e1e519269239142413844",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "image_url",
+        "oldName": "imageUrl",
+        "table": "recc_items"
+      }
+    }
+  ]
+}

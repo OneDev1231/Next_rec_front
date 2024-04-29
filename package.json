@@ -1,0 +1,53 @@
+{
+  "name": "recc",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^4.29.6",
+    "@radix-ui/react-avatar": "^1.0.4",
+    "@radix-ui/react-dialog": "^1.0.5",
+    "@radix-ui/react-slot": "^1.0.2",
+    "@radix-ui/react-tabs": "^1.0.4",
+    "@xata.io/client": "^0.29.0",
+    "@xenova/transformers": "^2.15.1",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
+    "extendable-media-recorder": "^9.1.9",
+    "extendable-media-recorder-wav-encoder": "^7.0.104",
+    "lucide-react": "^0.335.0",
+    "next": "^14.1.4",
+    "next-themes": "^0.3.0",
+    "openai": "^4.28.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-lottie": "^1.2.4",
+    "react-speech-recognition": "^3.10.0",
+    "regenerator-runtime": "^0.14.1",
+    "sonner": "^1.4.41",
+    "swr": "^2.2.5",
+    "tailwind-merge": "^2.2.1",
+    "tailwindcss-animate": "^1.0.7",
+    "use-debounce": "^10.0.0",
+    "vaul": "^0.9.0",
+    "wavefile": "^11.0.0",
+    "zustand": "^4.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/react-lottie": "^1.2.10",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}

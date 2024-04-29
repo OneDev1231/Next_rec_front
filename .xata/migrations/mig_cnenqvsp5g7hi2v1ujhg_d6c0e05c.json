@@ -1,0 +1,16 @@
+{
+  "id": "mig_cnenqvsp5g7hi2v1ujhg",
+  "parentID": "mig_cnenqpkp5g7hi2v1ujgg",
+  "checksum": "1:d6c0e05c37534b648c4367d5c560a2b1d8f473ea156897b82241eef854cd1350",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "imageUrl",
+          "type": "string"
+        },
+        "table": "recc_items"
+      }
+    }
+  ]
+}

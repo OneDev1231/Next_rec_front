@@ -1,0 +1,14 @@
+{
+  "id": "mig_cngc2q1lc4obap3coqn0",
+  "parentID": "mig_cngc2mhlc4obap3coqm0",
+  "checksum": "1:618a07d06914fd287862781ef16fa8b70d26d2acd2335392b1db88b0d8463213",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "request_id",
+        "oldName": "reques_id",
+        "table": "recc_lists"
+      }
+    }
+  ]
+}

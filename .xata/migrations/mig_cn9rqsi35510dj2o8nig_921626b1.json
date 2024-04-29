@@ -1,0 +1,14 @@
+{
+  "id": "mig_cn9rqsi35510dj2o8nig",
+  "parentID": "mig_cn9rqqa35510dj2o8nhg",
+  "checksum": "1:921626b1f28a1cfc017e8537a1cf042590584402b9645d1f0f99a52c218437eb",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "last_name",
+        "oldName": "last_nam",
+        "table": "users"
+      }
+    }
+  ]
+}

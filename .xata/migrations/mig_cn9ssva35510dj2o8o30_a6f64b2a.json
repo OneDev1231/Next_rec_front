@@ -1,0 +1,17 @@
+{
+  "id": "mig_cn9ssva35510dj2o8o30",
+  "parentID": "mig_cn9rqsi35510dj2o8nig",
+  "checksum": "1:a6f64b2ab7c178ddc9c534cde408f6b9ea089d8f8bc69d7b979265272d800344",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "clerk_user_id",
+          "type": "string",
+          "unique": true
+        },
+        "table": "users"
+      }
+    }
+  ]
+}

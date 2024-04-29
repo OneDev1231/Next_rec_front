@@ -1,0 +1,16 @@
+{
+  "id": "mig_cn0o9494p31jf4mt8s60",
+  "parentID": "mig_cn0o8up4p31jf4mt8s50",
+  "checksum": "1:ed9952f87db6c3da79562f0d15099815f6c6f81006bbd4b6de75e19655f5968c",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "prompt_text",
+          "type": "text"
+        },
+        "table": "recc_lists"
+      }
+    }
+  ]
+}

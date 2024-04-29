@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://ross-campbell-ucsd-recc-s-workspace-5i2a8b.us-east-1.xata.sh/db/recc",
+  "codegen": {
+    "output": "./xata.ts"
+  }
+}

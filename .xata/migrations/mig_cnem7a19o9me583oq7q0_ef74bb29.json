@@ -1,0 +1,14 @@
+{
+  "id": "mig_cnem7a19o9me583oq7q0",
+  "parentID": "mig_cnem6sh9o9me583oq7o0",
+  "checksum": "1:ef74bb29722b773f4f5cad8b865fcd86c272a8017884ffc31d0f99069993a2fc",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "title",
+        "oldName": "Title",
+        "table": "recc_lists"
+      }
+    }
+  ]
+}

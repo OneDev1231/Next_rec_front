@@ -1,0 +1,13 @@
+{
+  "id": "mig_cntqherij48b5dd5k3g0",
+  "parentID": "mig_cntqglbij48b5dd5k3f0",
+  "checksum": "1:5d54fa29f6e7f7dfa851189a1c23ee34aadeb3de06dc73a536a532b4e9d62c14",
+  "operations": [
+    {
+      "removeColumn": {
+        "column": "status",
+        "table": "recc_lists"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mig_cngc2mhlc4obap3coqm0",
+  "parentID": "mig_cngc1lplc4obap3coql0",
+  "checksum": "1:420df480a45695333bfac09281abcdf440380951220093e792fee8549e7ea8ff",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "reques_id",
+          "type": "string"
+        },
+        "table": "recc_lists"
+      }
+    }
+  ]
+}

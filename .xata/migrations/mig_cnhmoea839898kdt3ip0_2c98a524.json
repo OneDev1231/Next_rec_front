@@ -1,0 +1,16 @@
+{
+  "id": "mig_cnhmoea839898kdt3ip0",
+  "parentID": "mig_cnhmoc0jgt5lmn3jnhe0",
+  "checksum": "1:2c98a5247413681e7e08509963a0aa86e40014b56d4c2ba725d717e495003d62",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "link",
+          "type": "string"
+        },
+        "table": "recc_items"
+      }
+    }
+  ]
+}

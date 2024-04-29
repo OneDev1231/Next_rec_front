@@ -1,0 +1,17 @@
+{
+  "id": "mig_cntqglbij48b5dd5k3f0",
+  "parentID": "mig_cnlj9eib1a23a5t9fe40",
+  "checksum": "1:8f5c0173ea0911649cfda1ca42560e62a6f5865df014f90763d9eeaa3561ae1b",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "status",
+          "type": "string",
+          "defaultValue": "draft"
+        },
+        "table": "recc_lists"
+      }
+    }
+  ]
+}

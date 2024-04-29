@@ -1,0 +1,16 @@
+{
+  "id": "mig_cngc191lc4obap3coqi0",
+  "parentID": "mig_cngc15plc4obap3coqh0",
+  "checksum": "1:b1c443503d0b318c52915c8f06270b9dc17201fb97b0bef1407bdaed5b15ec86",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "user_id",
+          "type": "string"
+        },
+        "table": "requests"
+      }
+    }
+  ]
+}

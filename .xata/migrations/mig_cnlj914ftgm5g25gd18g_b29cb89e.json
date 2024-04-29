@@ -1,0 +1,19 @@
+{
+  "id": "mig_cnlj914ftgm5g25gd18g",
+  "parentID": "mig_cnlj8uab1a23a5t9fe20",
+  "checksum": "1:b29cb89e423d57c2f1ac5fb13878a1868e183b503868fb7df74f2e6c702a24cb",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "user",
+          "type": "link",
+          "link": {
+            "table": "users"
+          }
+        },
+        "table": "recc_list_saves"
+      }
+    }
+  ]
+}

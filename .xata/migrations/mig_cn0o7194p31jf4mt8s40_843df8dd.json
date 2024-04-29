@@ -1,0 +1,11 @@
+{
+  "id": "mig_cn0o7194p31jf4mt8s40",
+  "checksum": "1:843df8ddff389b83a19ad19bc0958cb7c7c13f9e1da7b7a10b612e5c2d583547",
+  "operations": [
+    {
+      "addTable": {
+        "table": "recc_lists"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mig_cngc1k9lc4obap3coqk0",
+  "parentID": "mig_cngc1g9lc4obap3coqj0",
+  "checksum": "1:97a9d69152e0a7fbfd7294886b374ab0e25fa034230416fa020af6b013bf0a8c",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "prompt_text",
+          "type": "text"
+        },
+        "table": "requests"
+      }
+    }
+  ]
+}
